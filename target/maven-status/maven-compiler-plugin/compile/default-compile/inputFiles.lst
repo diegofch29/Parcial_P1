@@ -1,2 +1,4 @@
-/home/diego/Universidad/AREP/parcial/ServidorWEB/ServidorWeb/src/main/java/edu/escuelaing/arep/ServidorWeb/SparkWebApp.java
-/home/diego/Universidad/AREP/parcial/ServidorWEB/ServidorWeb/src/main/java/edu/escuelaing/arep/ServidorWeb/Funciones/FuncTrigonometrica.java
+/home/diego/Universidad/AREP/parcial/OtroServidorWEB/Parcial_P1/src/main/java/edu/escuelaing/arep/ServidorWeb/HttpServer.java
+/home/diego/Universidad/AREP/parcial/OtroServidorWEB/Parcial_P1/src/main/java/edu/escuelaing/arep/ServidorWeb/Client.java
+/home/diego/Universidad/AREP/parcial/OtroServidorWEB/Parcial_P1/src/main/java/edu/escuelaing/arep/ServidorWeb/Funciones/FuncTrigonometrica.java
+/home/diego/Universidad/AREP/parcial/OtroServidorWEB/Parcial_P1/src/main/java/edu/escuelaing/arep/ServidorWeb/Request.java
